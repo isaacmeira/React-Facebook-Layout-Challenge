@@ -1,0 +1,7 @@
+{ // Traduz coisas excluisivas de versões mais novas do jS
+  // E do react, de uma maneira que o navegador entenda
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}
