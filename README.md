@@ -16,4 +16,4 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
 ## Resultado:
 
-<img src="https://s3.us-east-2.amazonaws.com/gobarber-img/Screenshot_2019-05-05+GoReact.png" width = "800px"/>
+<img src="https://s3.us-east-2.amazonaws.com/gobarber-img/Screenshot_2019-05-05+GoReact.png" width = "1143px" />
